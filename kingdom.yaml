@@ -1,0 +1,8 @@
+name: ud
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The sun that crosses the sky and makes things visible so they can be seen and judged.
+dependsOn: [me, truth]
